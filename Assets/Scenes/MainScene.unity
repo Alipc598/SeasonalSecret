@@ -32586,6 +32586,8 @@ MonoBehaviour:
   Openbtn: {fileID: 1142068818}
   nearDoor: 0
   openDoor: 0
+  audioSource: {fileID: 1873958900}
+  doorOpenSound: {fileID: 8300000, guid: 70c2292461bf5a247890bf5ea13e5c8a, type: 3}
 --- !u!1 &1643428967
 GameObject:
   m_ObjectHideFlags: 0
