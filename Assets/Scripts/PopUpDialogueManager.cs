@@ -29,7 +29,7 @@ public class PopUpDialogueManager : MonoBehaviour
     {
         hasShown = true; // Set flag to prevent showing again
         dialogueWindow.SetActive(true); // Show the window
-        yield return new WaitForSeconds(5); // Wait for 5 seconds
+        yield return new WaitForSeconds(8); // Wait for 8 seconds
         dialogueWindow.SetActive(false); // Hide the window
     }
 }

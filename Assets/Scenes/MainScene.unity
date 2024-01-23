@@ -723,7 +723,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 678, y: 16}
+  m_AnchoredPosition: {x: 632.8, y: 7.4000244}
   m_SizeDelta: {x: -1147.773, y: 413.6658}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &39454473
@@ -41447,7 +41447,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 22.9317, y: -81.358}
+  m_AnchoredPosition: {x: 29, y: -131}
   m_SizeDelta: {x: 1463.6577, y: 1301.879}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2067094709
@@ -41483,27 +41483,30 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '**Quick Start Guide!**
+  m_text: '<b>*** Read The Wall To Your Left If You Need More Guidance***</b>
+
+    **This
+    Panel Will Be <b>Permanently Disable after 8 seconds</b>**
+
+
+    1. **Loot**:
+    <b>Press ''F''</b> to grab items.
+
+
+    2. **Inventory**: <b>Press  ''P''</b>
+    to see your stuff.
+
+
+    3. **Unlock**: Use items with ''<b>LMB''</b> to solve
+    the lock.
+
+
+    4. **Teleport**: Step on the ''<b>pad''</b> outside to move on
+    to next scene.
 
 
 
-    1. **Loot**: Press ''F'' to grab items.
-
-
-    2.
-    **Inventory**: Hit ''P'' to see your stuff.
-
-
-    3. **Unlock**: Use items with
-    LMB to solve the lock.
-
-
-    4. **Teleport**: Step on the pad to move on.
-
-
-
-    **Ready?
-    Adventure awaits!**'
+    **Ready? Adventure awaits!**'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -41566,7 +41569,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -485.3299, y: -69.762634, z: -400.09784, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
